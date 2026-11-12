@@ -1,0 +1,513 @@
+{
+  "generated": "2026-10-27",
+  "note": "维界设计官网真实项目影像资产；路径相对 website/ 目录。所有图为矩形 JPEG（q82/optimize，必要时降质以控制在 400KB 内），无圆角、无水印、无滤镜。",
+  "projects": [
+    {
+      "slug": "xiangdongdao",
+      "name": "向东岛",
+      "cover": {
+        "file": "cover.jpg",
+        "path": "assets/img/projects/xiangdongdao/cover.jpg",
+        "alt": "客厅 / 壁炉与落地窗",
+        "ratio": "4:5",
+        "width": 1600,
+        "height": 2000,
+        "bytes": 322316,
+        "quality": 82,
+        "source": "向东岛 (7).png",
+        "sourceSize": [
+          4000,
+          2049
+        ]
+      },
+      "detailCover": {
+        "file": "detail-cover.jpg",
+        "path": "assets/img/projects/xiangdongdao/detail-cover.jpg",
+        "alt": "客厅 / 电视墙与休憩区",
+        "ratio": "16:9",
+        "width": 2400,
+        "height": 1350,
+        "bytes": 276599,
+        "quality": 82,
+        "source": "向东岛 (19).png",
+        "sourceSize": [
+          4000,
+          2169
+        ]
+      },
+      "gallery": [
+        {
+          "file": "gallery-01.jpg",
+          "path": "assets/img/projects/xiangdongdao/gallery-01.jpg",
+          "alt": "餐厨 / 中岛与餐桌",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 209675,
+          "quality": 82,
+          "source": "一层 (7).png",
+          "sourceSize": [
+            4000,
+            2217
+          ]
+        },
+        {
+          "file": "gallery-02.jpg",
+          "path": "assets/img/projects/xiangdongdao/gallery-02.jpg",
+          "alt": "卧室 / 老人房",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 167451,
+          "quality": 82,
+          "source": "老人房 (2).png",
+          "sourceSize": [
+            3100,
+            1838
+          ]
+        },
+        {
+          "file": "gallery-03.jpg",
+          "path": "assets/img/projects/xiangdongdao/gallery-03.jpg",
+          "alt": "客厅 / 书架与电梯井",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 189428,
+          "quality": 82,
+          "source": "向东岛 (9).png",
+          "sourceSize": [
+            4000,
+            1905
+          ]
+        },
+        {
+          "file": "gallery-04.jpg",
+          "path": "assets/img/projects/xiangdongdao/gallery-04.jpg",
+          "alt": "主卫 / 双台盆与淋浴区",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 177139,
+          "quality": 82,
+          "source": "二层主卫生间.png",
+          "sourceSize": [
+            2116,
+            1928
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "shanhaishu",
+      "name": "山海墅",
+      "cover": {
+        "file": "cover.jpg",
+        "path": "assets/img/projects/shanhaishu/cover.jpg",
+        "alt": "卧室 / 主卧与庭院",
+        "ratio": "4:5",
+        "width": 1600,
+        "height": 2000,
+        "bytes": 387836,
+        "quality": 78,
+        "source": "5 (13).png",
+        "sourceSize": [
+          3840,
+          2160
+        ]
+      },
+      "detailCover": {
+        "file": "detail-cover.jpg",
+        "path": "assets/img/projects/shanhaishu/detail-cover.jpg",
+        "alt": "客厅 / 挑空与庭院全景",
+        "ratio": "16:9",
+        "width": 2400,
+        "height": 1350,
+        "bytes": 388828,
+        "quality": 78,
+        "source": "5 (9).png",
+        "sourceSize": [
+          3840,
+          2160
+        ]
+      },
+      "gallery": [
+        {
+          "file": "gallery-01.jpg",
+          "path": "assets/img/projects/shanhaishu/gallery-01.jpg",
+          "alt": "客厅 / 窗带与开放式厨房",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 328834,
+          "quality": 82,
+          "source": "5 (6).png",
+          "sourceSize": [
+            3840,
+            2160
+          ]
+        },
+        {
+          "file": "gallery-02.jpg",
+          "path": "assets/img/projects/shanhaishu/gallery-02.jpg",
+          "alt": "玄关 / 端景与木饰面",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 285749,
+          "quality": 82,
+          "source": "5 (16).png",
+          "sourceSize": [
+            3840,
+            2082
+          ]
+        },
+        {
+          "file": "gallery-03.jpg",
+          "path": "assets/img/projects/shanhaishu/gallery-03.jpg",
+          "alt": "餐厨 / 中岛与餐厅",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 271101,
+          "quality": 82,
+          "source": "5 (10).png",
+          "sourceSize": [
+            3840,
+            2160
+          ]
+        },
+        {
+          "file": "gallery-04.jpg",
+          "path": "assets/img/projects/shanhaishu/gallery-04.jpg",
+          "alt": "客厅 / 斜角庭院视野",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 390220,
+          "quality": 82,
+          "source": "5 (8).png",
+          "sourceSize": [
+            3840,
+            2160
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "zhangjiangmingliu",
+      "name": "张江名流豪庭",
+      "cover": {
+        "file": "cover.jpg",
+        "path": "assets/img/projects/zhangjiangmingliu/cover.jpg",
+        "alt": "客厅 / 红色艺术画与曲面包裹",
+        "ratio": "4:5",
+        "width": 1216,
+        "height": 1520,
+        "bytes": 163047,
+        "quality": 82,
+        "source": "b94cf41ab1a0da5b45b688a16b06778.png",
+        "sourceSize": [
+          2844,
+          1520
+        ]
+      },
+      "detailCover": {
+        "file": "detail-cover.jpg",
+        "path": "assets/img/projects/zhangjiangmingliu/detail-cover.jpg",
+        "alt": "客厅 / 室内庭院与天光",
+        "ratio": "16:9",
+        "width": 2400,
+        "height": 1350,
+        "bytes": 288122,
+        "quality": 82,
+        "source": "张江名流豪庭114号 (2).png",
+        "sourceSize": [
+          3000,
+          1362
+        ]
+      },
+      "gallery": [
+        {
+          "file": "gallery-01.jpg",
+          "path": "assets/img/projects/zhangjiangmingliu/gallery-01.jpg",
+          "alt": "餐厨 / 圆桌与吊灯",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 194123,
+          "quality": 82,
+          "source": "5 (3).png",
+          "sourceSize": [
+            3000,
+            1362
+          ]
+        },
+        {
+          "file": "gallery-02.jpg",
+          "path": "assets/img/projects/zhangjiangmingliu/gallery-02.jpg",
+          "alt": "客厅 / 楼梯与结构柱",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 189626,
+          "quality": 82,
+          "source": "张江名流豪庭114号 (5).png",
+          "sourceSize": [
+            3000,
+            1610
+          ]
+        },
+        {
+          "file": "gallery-03.jpg",
+          "path": "assets/img/projects/zhangjiangmingliu/gallery-03.jpg",
+          "alt": "客厅 / 开放式厨房界面",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 161623,
+          "quality": 82,
+          "source": "张江名流豪庭114号 (3).png",
+          "sourceSize": [
+            3000,
+            1263
+          ]
+        },
+        {
+          "file": "gallery-04.jpg",
+          "path": "assets/img/projects/zhangjiangmingliu/gallery-04.jpg",
+          "alt": "客厅 / 格栅光影",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 163488,
+          "quality": 82,
+          "source": "张江名流豪庭114号 (6).png",
+          "sourceSize": [
+            3000,
+            1610
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tangyin",
+      "name": "棠隐",
+      "cover": {
+        "file": "cover.jpg",
+        "path": "assets/img/projects/tangyin/cover.jpg",
+        "alt": "客厅 / 壁炉与木饰面",
+        "ratio": "4:5",
+        "width": 1600,
+        "height": 2000,
+        "bytes": 292155,
+        "quality": 82,
+        "source": "1 (1).png",
+        "sourceSize": [
+          6096,
+          2568
+        ]
+      },
+      "detailCover": {
+        "file": "detail-cover.jpg",
+        "path": "assets/img/projects/tangyin/detail-cover.jpg",
+        "alt": "负一层 / 挑空与旋转楼梯",
+        "ratio": "16:9",
+        "width": 2400,
+        "height": 1350,
+        "bytes": 394719,
+        "quality": 80,
+        "source": "负一层 (8).png",
+        "sourceSize": [
+          3840,
+          1792
+        ]
+      },
+      "gallery": [
+        {
+          "file": "gallery-01.jpg",
+          "path": "assets/img/projects/tangyin/gallery-01.jpg",
+          "alt": "客厅 / 书架与沙发区",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 309187,
+          "quality": 82,
+          "source": "一层 (4).png",
+          "sourceSize": [
+            3840,
+            1792
+          ]
+        },
+        {
+          "file": "gallery-02.jpg",
+          "path": "assets/img/projects/tangyin/gallery-02.jpg",
+          "alt": "二层卧室 / 落地窗",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 235122,
+          "quality": 82,
+          "source": "二层 (2).png",
+          "sourceSize": [
+            3840,
+            1662
+          ]
+        },
+        {
+          "file": "gallery-03.jpg",
+          "path": "assets/img/projects/tangyin/gallery-03.jpg",
+          "alt": "夹层餐厅 / 圆形餐桌",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 254939,
+          "quality": 82,
+          "source": "夹层餐厅 (6).png",
+          "sourceSize": [
+            3840,
+            1792
+          ]
+        },
+        {
+          "file": "gallery-04.jpg",
+          "path": "assets/img/projects/tangyin/gallery-04.jpg",
+          "alt": "地下室 / 旋转楼梯与酒柜",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 201319,
+          "quality": 82,
+          "source": "地下室 (6).png",
+          "sourceSize": [
+            3840,
+            1662
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "yindumingshu",
+      "name": "银都明墅",
+      "cover": {
+        "file": "cover.jpg",
+        "path": "assets/img/projects/yindumingshu/cover.jpg",
+        "alt": "主卧 / 床尾案与静谧光",
+        "ratio": "4:5",
+        "width": 1600,
+        "height": 2000,
+        "bytes": 384041,
+        "quality": 80,
+        "source": "主卧室 (2).png",
+        "sourceSize": [
+          6000,
+          2891
+        ]
+      },
+      "detailCover": {
+        "file": "detail-cover.jpg",
+        "path": "assets/img/projects/yindumingshu/detail-cover.jpg",
+        "alt": "餐厅厨房 / 长桌与玻璃酒柜",
+        "ratio": "16:9",
+        "width": 2400,
+        "height": 1350,
+        "bytes": 364405,
+        "quality": 82,
+        "source": "餐厅-厨房 (3).png",
+        "sourceSize": [
+          4344,
+          2891
+        ]
+      },
+      "gallery": [
+        {
+          "file": "gallery-01.jpg",
+          "path": "assets/img/projects/yindumingshu/gallery-01.jpg",
+          "alt": "客厅 / 木顶与主沙发区",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 264532,
+          "quality": 82,
+          "source": "客厅 (3).png",
+          "sourceSize": [
+            4000,
+            2797
+          ]
+        },
+        {
+          "file": "gallery-02.jpg",
+          "path": "assets/img/projects/yindumingshu/gallery-02.jpg",
+          "alt": "客厅 / 壁炉与单椅",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 312942,
+          "quality": 82,
+          "source": "客厅 (7).png",
+          "sourceSize": [
+            3528,
+            2565
+          ]
+        },
+        {
+          "file": "gallery-03.jpg",
+          "path": "assets/img/projects/yindumingshu/gallery-03.jpg",
+          "alt": "负一层 / 楼梯与玄关端景",
+          "ratio": "4:3",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 245037,
+          "quality": 82,
+          "source": "负一层 (3).png",
+          "sourceSize": [
+            5496,
+            2279
+          ]
+        },
+        {
+          "file": "gallery-04.jpg",
+          "path": "assets/img/projects/yindumingshu/gallery-04.jpg",
+          "alt": "玄关 / 木格栅与挂画",
+          "ratio": "3:4",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 220637,
+          "quality": 82,
+          "source": "玄关.png",
+          "sourceSize": [
+            2832,
+            2891
+          ]
+        }
+      ]
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "path": "assets/img/projects/portrait.jpg",
+    "alt": "主理人肖像 / 白色帘幕前的设计师",
+    "ratio": "3:4",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 199764,
+    "quality": 82,
+    "source": "主理人照片/jc48.jpg",
+    "sourceSize": [
+      3888,
+      5184
+    ]
+  },
+  "notes": [
+    "shanhaishu/cover.jpg：为满足 ≤400KB，质量由 82 降至 q78（379KB）",
+    "shanhaishu/detail-cover.jpg：为满足 ≤400KB，质量由 82 降至 q78（380KB）",
+    "zhangjiangmingliu/cover.jpg：源图 2844x1520 不足以输出 1600x2000，已按原生像素输出 1216x1520（未放大）",
+    "tangyin/detail-cover.jpg：为满足 ≤400KB，质量由 82 降至 q80（385KB）",
+    "yindumingshu/cover.jpg：为满足 ≤400KB，质量由 82 降至 q80（375KB）",
+    "主理人照片 jc48.jpg（3888x5184）→ assets/img/projects/portrait.jpg，3:4 / 1200x1600 / q82 / 195KB。",
+    "张江名流源图均为短横幅（最高 1610px），4:5 cover 按原生像素输出 1216x1520，未做放大以免失真；如需严格 1600x2000 需 1.32 倍插值。",
+    "山海墅与张江名流的源图以同一客厅多机位为主，gallery 已尽量选不同机位与不同空间（餐厨/玄关/卧室/负一层/玄关端景），避免完全相同角度重复。",
+    "全部输出为矩形 JPEG，无圆角、无水印、无滤镜、无调色；选片均为无人物的空场实景渲染，未见明显过曝。",
+    "向东岛源图中 2 张为超宽比例全景（3616x823、3971x945），不足以承载 4:5/16:9 裁切，未选用。"
+  ]
+}
