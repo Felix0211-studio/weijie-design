@@ -357,3 +357,14 @@ body{font-size:16px!important;}
 @media (max-width:640px){
   .hero h1{font-size:clamp(2.15rem,8.4vw,2.95rem)!important;}
 }
+
+/* Discovery of Good Design: full-width feature with the complete poster visible */
+.award-card--feature{grid-column:1 / -1;display:grid;grid-template-columns:repeat(12,1fr);gap:clamp(24px,4vw,58px);align-items:center;}
+.award-card--feature .award-card__media{grid-column:1 / 6;aspect-ratio:1386/3023;}
+.award-card--feature .award-card__body{grid-column:7 / 13;padding-top:0;}
+.award-card--feature .award-card__title{font-size:clamp(2rem,3.4vw,3.8rem);}
+@media (max-width:900px){
+  .award-card--feature{display:block;}
+  .award-card--feature .award-card__media{aspect-ratio:1386/3023;}
+  .award-card--feature .award-card__body{padding-top:20px;}
+}
